@@ -14,7 +14,6 @@ const Portfolio = () => {
   });
 
   const uniqueCategories = ["all", ...categorySet];
-  console.log(uniqueCategories, { categorySet });
 
   const filterProjectsHandler = (category) => {
     if (category === "all") {
