@@ -89,7 +89,7 @@ const data = [
     id: 10,
     category: ["frontend"],
     image: Image10,
-    title: "Implementing infinite scroll in React from scratch (coming soon)",
+    title: "Implementing infinite scroll in React from scratch",
     desc: "This project shows how to implement infinite scroll from scratch in a React app, offering a seamless user experience by loading more content as users scroll. Commonly tested in machine coding interviews, this feature highlights the ability to manage dynamic content loading efficiently and optimize performance in React applications.",
     demo: "https://machine-coding-challenge.netlify.app/",
     github:
