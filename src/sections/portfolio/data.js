@@ -7,6 +7,8 @@ import Image7 from "../../assets/project7.jpg";
 import Image8 from "../../assets/project8.jpg";
 import Image9 from "../../assets/project9.jpg";
 import Image10 from "../../assets/project10.jpg";
+import Image11 from "../../assets/project11.jpg";
+import Image12 from "../../assets/project12.jpg";
 
 const data = [
   {
@@ -94,6 +96,26 @@ const data = [
     demo: "https://machine-coding-challenge.netlify.app/",
     github:
       "https://github.com/Saurav-Rawat/machine-coding-questions/tree/main/src/InfiniteScroll",
+  },
+  {
+    id: 11,
+    category: ["frontend"],
+    image: Image12,
+    title: "Tic Tac Toe With React",
+    desc: "This project demonstrates how to implement a classic Tic Tac Toe game using React. Players can input their moves, and the game dynamically updates to highlight the winning combination when achieved. Built with React's state management and component-based architecture, this project showcases how to develop interactive UIs in React while adhering to common interview coding challenges.",
+    demo: "https://machine-coding-challenge.netlify.app/tictactoe",
+    github:
+      "https://github.com/Saurav-Rawat/machine-coding-questions/tree/main/src/TicTacToe",
+  },
+  {
+    id: 12,
+    category: ["frontend"],
+    image: Image11,
+    title: "Implementing text search functionality",
+    desc: "This project shows how to implement Search text functionality where users can input a query string to search within a source string. The output highlights all occurrences of the query string within the source text",
+    demo: "https://machine-coding-challenge.netlify.app/text-search",
+    github:
+      "https://github.com/Saurav-Rawat/machine-coding-questions/tree/main/src/TextSearch",
   },
 ];
 

@@ -49,8 +49,9 @@ const About = () => {
             technologies and delivering high-quality products.
           </p>
           <p>
-            I'm a gamer by night, diving into virtual worlds and sharing epic
-            highlights on my Instagram for fellow gaming enthusiasts.
+            I also maintain a YouTube channel where I regularly upload videos
+            solving famous frontend coding problems, enhancing community
+            engagement and knowledge sharing
           </p>
           <a href={CV} download className="btn primary">
             Download CV <HiDownload />

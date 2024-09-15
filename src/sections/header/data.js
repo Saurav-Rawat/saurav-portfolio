@@ -1,7 +1,7 @@
-import { AiOutlineInstagram } from "react-icons/ai";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedin } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa";
+import { FaYoutube } from "react-icons/fa";
 
 const data = [
   {
@@ -12,8 +12,8 @@ const data = [
   { id: 4, link: "https://github.com/Saurav-Rawat", icon: <AiFillGithub /> },
   {
     id: 1,
-    link: "https://www.instagram.com/humpteeze/?utm_source=qr",
-    icon: <AiOutlineInstagram />,
+    link: "https://www.youtube.com/@humpteezee9228",
+    icon: <FaYoutube />,
   },
   { id: 2, link: "https://medium.com/@rawatsaurav889", icon: <FaMedium /> },
 ];
